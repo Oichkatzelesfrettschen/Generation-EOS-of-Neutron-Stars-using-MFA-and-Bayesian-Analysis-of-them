@@ -1,0 +1,7 @@
+numpy
+scipy
+matplotlib
+random
+numba
+ultranest
+time
